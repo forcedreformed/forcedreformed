@@ -1,4 +1,4 @@
-Name : "Force" /n
+Name : "Force" 
 Interest : "Videogames", "C++"
 Learning now : C++, Unreal engine
 I want to collaborate on nothing right now
